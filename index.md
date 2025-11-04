@@ -45,7 +45,7 @@ Currently, I’m focused on expanding my knowledge in:
 ---
 
 ## 📝 Latest Post
-👉 [Refining Data Pipelines](.2025-04-06-Refining-Datapipelines-for-Address-Income.md)
+👉 [Refining Data Pipelines](./2025/04/06/refining-datapipelines-for-address-income.html)
 
 
 
