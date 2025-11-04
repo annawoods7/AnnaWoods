@@ -38,7 +38,5 @@ Centralized IT intranet that improved documentation and communication.
 ---
 
 ## 📫 Connect
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) | [Email](mailto:YOUR.EMAIL@EXAMPLE.COM)
+[LinkedIn](https://linkedin.com/in/annawoodss) | [Email](mailto:annaw9410@gmail.com)
 
----
-⭐ “Technology is best when it brings people together.” — Matt Mullenweg
