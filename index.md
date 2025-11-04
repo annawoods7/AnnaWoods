@@ -42,4 +42,10 @@ Currently, I’m focused on expanding my knowledge in:
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/annawoodss | [Email](mailto:annaw9410@gmail.com)
 
+---
+
+## 📝 Latest Post
+👉 [Refining Data Pipelines](./2025/11/03/my-first-post.html)
+
+
 
