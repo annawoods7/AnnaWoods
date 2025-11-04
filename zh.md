@@ -14,7 +14,7 @@
 
 目前正在学习：
 - 使用 Python 与 Excel 进行数据分析  
-- Network+ 认证相关知识  
+- CompTIA A+ 认证相关知识  
 - 使用 Power BI 进行数据可视化与商业故事讲述  
 
 ---
