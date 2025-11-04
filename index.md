@@ -2,6 +2,7 @@
 title: "Anna Woods | Information Systems"
 layout: default
 ---
+[🇨🇳 中文版](zh.md)
 
 # 👋 Hi, I'm Anna Woods
 🎓 Information Systems Major @ University of Nevada, Reno  
