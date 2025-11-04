@@ -28,30 +28,41 @@ Currently, I’m focused on expanding my knowledge in:
 ---
 
 ## 💻 Featured Projects
-- **[User Provisioning Automation](#)** – PowerShell-based script automating Microsoft 365 onboarding/offboarding.  
-- **[Business Insights Dashboard](#)** – Data visualization project using Python and Power BI.  
-- **[Access Database Manager](#)** – Streamlined employee access tracking and updates through a centralized database.
 
-*(Replace `#` with your actual project links once your repos are public!)*
+- **[LATAM Electrosurgery Market Dashboard](#)**  
+  Interactive **Power BI dashboard** analyzing market size, trends, and device adoption across Latin America.  
+  *Tools:* Power BI, Excel, DAX, Data Modeling  
+
+- **[Address Income Investment Website](#)**  
+  A responsive **web application** providing housing and income data insights for investment decisions.  
+  *Tools:* Python (Pandas), SQL, Supabase, Docker, Github Actions 
+
+- **[AI Advisors Educational Website](#)**  
+  Designed a learning platform that introduces users to AI fundamentals and ethical applications in business.  
+  *Tools:* Moodle, SharePoint
+
+- **[IT Department SharePoint Intranet](#)**  
+  Developed and maintained a centralized **Microsoft SharePoint intranet** to streamline IT documentation and internal communication.  
+  *Tools:* SharePoint Online, Microsoft 365 Admin Center
 
 ---
 
 ## 🎓 Education & Certifications
-- **B.S. in Information Systems**, University of Nevada, Reno — *Expected May 2025*  
+- **B.S. in Information Systems**, University of Nevada, Reno — *May 2025*  
 - **Minors in Business Analytics & Mandarin Chinese**  
 - 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anna%20Woods-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?logo=gmail&logoColor=white)](mailto:YOUR.EMAIL@EXAMPLE.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anna%20Woods-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/annawoodss)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?logo=gmail&logoColor=white)](mailto:annaw9410@EXAMPLE.COM)
 
 ---
 
 
 ### 🌱 Currently Learning
-- Advanced PowerShell scripting  
-- Network+ certification topics  
+- Exploring data analysis with Python and Excel 
+- CompTIA+ certification topics  
 - Data storytelling with Power BI  
 
 
