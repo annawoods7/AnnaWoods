@@ -37,7 +37,6 @@
 ## 🎓 教育与认证
 - **信息系统学士**, 内华达大学雷诺分校 — *预计 2025 年 5 月毕业*  
 - **中文辅修**  
-- **认证:** 计划考取 CompTIA Network+ 与 Microsoft Azure Fundamentals  
 
 ---
 
