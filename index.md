@@ -13,7 +13,7 @@ I enjoy learning how technology streamlines business operations — from data an
 
 Currently, I’m focused on expanding my knowledge in:
 - Exploring data analysis with Python and Excel  
-- Network+ certification topics  
+- CompTIA A+ certification topics  
 - Data storytelling with Power BI  
 
 ---
